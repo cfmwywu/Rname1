@@ -12,10 +12,15 @@ type - text. The betting section of your text file should look something
 like this:
 -------------------------------------------------------------------------
 #
+
 Oct 13, 2019, 12:33:36 PM
+
 Void
+
 Point Spread: NY Jets -2.0
+
 Wager: $10.00
+
 Odds: (17/5)
 
   *
@@ -23,10 +28,15 @@ Odds: (17/5)
   * DAL Cowboys @ NY Jets
 
 #
+
 Oct 13, 2019, 12:33:03 PM
+
 Won
+
 Point Spread: NY Jets +7.0
+
 Wager: $10.00
+
 Odds: 10/11
 
   *
