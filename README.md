@@ -13,7 +13,7 @@ like this:
 
 -------------------------------------------------------------------------
 
- #
+#
 
 Oct 13, 2019, 12:33:36 PM
 
@@ -29,7 +29,7 @@ Odds: (17/5)
     Payout: $10.00
   * DAL Cowboys @ NY Jets
 
- #
+#
 
 Oct 13, 2019, 12:33:03 PM
 
@@ -52,7 +52,7 @@ Odds: 10/11
 Odds format
 
 Responsible Gaming
-<https://pa.playsugarhouse.com/?page=eula&tos=RESPONSIBLEGAMBLING>
+
 -------------------------------------------------------------------------
 
 You may save the text file anywhere. The SH1 program will open a standard
