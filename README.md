@@ -10,9 +10,7 @@ your history from the Sugarhouse menu. Then, from the top menu bar, click
 on File, and then click on Save Page As. Type in a file name and save as
 type - text. The betting section of your text file should look something
 like this:
-
 -------------------------------------------------------------------------
-
 #
 Oct 13, 2019, 12:33:36 PM
 Void
@@ -43,7 +41,6 @@ Odds format
 
 Responsible Gaming
 <https://pa.playsugarhouse.com/?page=eula&tos=RESPONSIBLEGAMBLING>
-
 -------------------------------------------------------------------------
 
 You may save the text file anywhere. The SH1 program will open a standard
